@@ -1,4 +1,4 @@
-export GOPATH=$(shell dirname `pwd`):$(GOLANGPATH)
+# export GOPATH=$(shell dirname `pwd`):$(GOLANGPATH)
 
 # --目标文件，$^--所有的依赖文件，$<--第一个依赖文件。
 
